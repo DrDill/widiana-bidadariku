@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: pink;
+}
+
+#projects {
+    background-color: pink;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+body {
+    background-color: pink;
+}
